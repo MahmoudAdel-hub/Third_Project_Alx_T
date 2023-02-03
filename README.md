@@ -10,7 +10,7 @@ The data consists of information regarding 183,412 rides made in a bike-sharing 
 
 ## Summary of Findings
 
-> Male is most gender founded on our data and most of trips hadn't finished most ages between 1965 to 1965 and i removed impossible ages like 1880 and many likes it by using IQR method and dist of duration has also outliers and i handle them using logarithm method 
+> Male is most gender founded on our data and most of trips hadn't finished most ages between 1965 to 1995 and i removed impossible ages like 1880 and many likes it by using IQR method and dist of duration has also outliers and i handle them using logarithm method 
 most of Participants is subscrible but most of finished trips  finished by customers ,most of trip between 6 to 9 and 15 to 19 hour and thursday has most number of trip bu monday has highest average duration cause it is weekend
 most of trips happend on Market St at 10th St state
 
