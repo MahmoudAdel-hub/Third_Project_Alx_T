@@ -1,5 +1,26 @@
-# Ford-GoBike-System-Data
-## by Mahmoud Adel
+# Project Overview
+
+This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process.
+
+- In Part I, Exploratory data visualization, you will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
+- In Part II, Explanatory data visualization, you will produce a short presentation that illustrates interesting properties, trends, and relationships that you discovered in your selected dataset. The primary method of conveying your findings will be through transforming your exploratory visualizations from the first part into polished, explanatory visualizations.
+--
+## Instructions
+
+### Part 1 - Exploratory Data Analysis
+In this first part, you will conduct an exploratory data analysis on a dataset of your choice. Use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships.
+
+The analysis in this part should be structured, going from simple univariate relationships to multivariate relationships, but it does not need to be clean or perfect. There is no single answer that needs to come out of a given dataset. This part of the project is your opportunity to ask questions about the data and make your discoveries. It’s essential to keep in mind that sometimes exploration can lead to dead ends and that it can take multiple steps to dig down to what you’re genuinely looking for. Be patient with your steps, document your work carefully, and be thorough in the perspective that you choose to take with your dataset.
+
+
+### Part 2 - Explanatory Data Visualization
+As you complete the part I of the project, document your findings in a the README.md file available in the template. Particularly, update these sections in the README.md file:
+
+Dataset - Introduce your dataset and document its source. Summarise the steps you took in your data exploration.
+
+Summary of Findings - Summarise your data exploration findings and reflect on the steps you took in your data exploration. Mention whether you plan to bring them into your explanatory presentation or not.
+
+Key Insights for Presentation - Write about why/how you chose certain findings over others to put in your explanatory analysis. Highlight the key insights that you want to convey in your explanatory report as well as any changes to visualizations, or note new visualizations that will be created to bridge between your insights.
 
 
 ## Dataset
